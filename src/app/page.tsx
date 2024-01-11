@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-      <div className='flex bg-white'>
+      <div className='flex'>
         <div className=' w-2/5 top-0 box-border p-5 h-screen sticky text-black'>
           <div className=' pt-16 pb-16'>
             <img className=' w-1/3 rounded-full h-44 object-cover mb-10' src='./demirel.png' alt='alt'/>
