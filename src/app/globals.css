@@ -14,3 +14,16 @@ body {
 	background-color: hsl(0 0% 100%);
 	transition: background-color 0.25s, color 0.25s;
 }
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.youtube{
+  width: 390px;
+  height: 390px;
+}
