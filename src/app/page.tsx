@@ -63,7 +63,7 @@ export default function Home() {
               <img className='w-10 pb-2' src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052' alt='alt'/>
               <div className='font-medium text-sm pb-2 whitespace-nowrap w-full overflow-hidden text-ellipsis'>CodeEditor Clone Website - (Next.Js, React, TailwindCSS)</div>
               <div className=' pb-16 text-xs font-medium'>youtube.com</div>
-              <img className='rounded-xl' src="https://i9.ytimg.com/vi/n8IDqeaPi8U/maxresdefault.jpg?v=659ab0f4&sqp=CJDgha0G&rs=AOn4CLABphjU5-ywr5E-TO-5qidxjnP6uw" alt='alt'/>
+              <img className='rounded-xl' src="./clone.jpg" alt='alt'/>
             </div>
             </a>
 
@@ -72,7 +72,7 @@ export default function Home() {
               <img className='w-10 pb-2' src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052' alt='alt'/>
               <div className='font-medium text-sm pb-2 whitespace-nowrap w-full overflow-hidden text-ellipsis'>React Js - Giriş</div>
               <div className='pb-16 text-xs font-medium'>youtube.com</div>
-              <img className='rounded-xl' src="https://i9.ytimg.com/vi_webp/CRt1E2V1tdo/maxresdefault.webp?v=657ec0b5&sqp=CJDgha0G&rs=AOn4CLCIoa-QlzKKakmACyBcKXCzdha6KQ" alt='alt'/>
+              <img className='rounded-xl' src="./react.jpg" alt='alt'/>
             </div>
             </a>
 
@@ -81,7 +81,7 @@ export default function Home() {
               <img className='w-10 pb-2' src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052' alt='alt'/>
               <div className='font-medium text-sm pb-2 whitespace-nowrap w-full overflow-hidden text-ellipsis'>Next.Js - Giriş</div>
               <div className='pb-16 text-xs font-medium'>youtube.com</div>
-              <img className='rounded-xl' src="https://i9.ytimg.com/vi/YFuT6rugwQQ/maxresdefault.jpg?v=6570a6fb&sqp=CJDgha0G&rs=AOn4CLAfNsZ5ZqHNtJ0K6HQZqNDGXSQbIA" alt='alt'/>
+              <img className='rounded-xl' src="./next.jpg" alt='alt'/>
             </div>
             </a>
 
@@ -90,7 +90,7 @@ export default function Home() {
               <img className='w-10 pb-2' src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052' alt='alt'/>
               <div className='font-medium text-sm pb-2 whitespace-nowrap w-full overflow-hidden text-ellipsis'>Javascript - Giriş</div>
               <div className='pb-16 text-xs font-medium'>youtube.com</div>
-              <img className='rounded-xl' src="https://i9.ytimg.com/vi/Zkj5XrVAY1s/maxresdefault.jpg?v=659d89f8&sqp=COzrha0G&rs=AOn4CLDLiEW6FP1en0wNP_B5MruEZr8FWg" alt='alt'/>
+              <img className='rounded-xl' src="./javascript.jpg" alt='alt'/>
             </div>
             </a>
           </div>
